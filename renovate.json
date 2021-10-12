@@ -5,7 +5,7 @@
   "rangeStrategy": "pin",
   "includeForks": "true",
   "onboarding":"false",
-  "token": "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",
+  "token": "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",
   "repositories": ["DristiKurre/juice-shop"],
   "logLevel": "debug"
 }
