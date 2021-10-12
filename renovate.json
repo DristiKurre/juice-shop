@@ -1,5 +1,11 @@
 {
   "extends": [
-    "config:base"
-  ]
+    "config:base", ":rebaseStalePrs", ":disableRateLimiting"
+  ],
+  "rangeStrategy": "pin",
+  "includeForks": "true",
+  "onboarding":"false",
+  "token": "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",
+  "repositories": ["DristiKurre/juice-shop"],
+  "logLevel": "debug"
 }
